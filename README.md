@@ -19,9 +19,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for both commercial and non-commercial purposes. You can find more information about the MIT License in the [LICENSE](LICENSE) file.
 
-## Demo
-
-Include a link to a live demo of your website (if available) or a screenshot/image demonstrating its functionality.
-
 ### Click on the image to view Demo >
+
 [![Password Generator Screenshot](./preview.png)](https://password-craft.netlify.app/)
