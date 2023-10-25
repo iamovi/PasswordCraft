@@ -23,7 +23,5 @@ The MIT License is a permissive open-source license that allows you to use, modi
 
 Include a link to a live demo of your website (if available) or a screenshot/image demonstrating its functionality.
 
-[View Demo]()
-
-## Preview
-![Password Generator Screenshot](./preview.png)
+### Click on the image to view Demo >
+[![Password Generator Screenshot](./preview.png)](https://password-craft.netlify.app/)
